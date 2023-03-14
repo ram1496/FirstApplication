@@ -1,0 +1,8 @@
+com\irdeto\playstore\datamodel\AppMetaData.class
+com\irdeto\playstore\ServletInitializer.class
+com\irdeto\playstore\PlaystoreApplication.class
+com\irdeto\playstore\datamodel\Apk.class
+com\irdeto\playstore\datamodel\ResponseMessage.class
+com\irdeto\playstore\restcontroller\PlayStoreController.class
+com\irdeto\playstore\repository\ApkStorageService.class
+com\irdeto\playstore\repository\MongoDBRepository.class
